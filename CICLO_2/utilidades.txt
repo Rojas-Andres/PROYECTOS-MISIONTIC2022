@@ -1,0 +1,9 @@
+la m en el proyecto significa que es en maven
+la tacita de cafe es que es una aplicacion de java
+
+servicios:
+	- soap = xml
+	- rest = json
+
+Arquitectura de netflix:
+https://netflixtechblog.com/
