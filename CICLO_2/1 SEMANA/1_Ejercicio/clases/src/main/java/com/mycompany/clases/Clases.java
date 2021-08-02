@@ -11,9 +11,13 @@ package com.mycompany.clases;
  */
 public class Clases {
     public static void main(String[] args){
+        //Creamos con los atributos vacios
         Animal an = new Animal();
+        System.out.println(an.toString());
         Animal an2 = new Animal(1,"Perro",5);
         System.out.println(an2.toString());
-    
+        // Cambiamos la edad del animal
+        an2.setAgno(20);
+        System.out.println(an2.toString());
     }
 }

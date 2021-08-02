@@ -49,7 +49,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Id : "+ this.id + " Nombre : " + this.name + " Años : " + this.agno; //To change body of generated methods, choose Tools | Templates.
+        return "Id : "+ this.id + ", Nombre : " + this.name + ", Años : " + this.agno; //To change body of generated methods, choose Tools | Templates.
     }
     
 }
